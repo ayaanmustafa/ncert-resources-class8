@@ -1,0 +1,42 @@
+*{
+    background-color: rgb(0, 0, 0);
+    font-family: "Tahoma", sans-serif;
+}
+
+h1{
+    margin: 0 auto;
+    color: greenyellow;
+    text-align: center;
+    margin-top: 4%;
+}
+
+h3{
+    margin: 0 auto;
+    color: rgb(255, 165, 47);
+    text-align: center;
+    margin: 1%; 
+}
+
+ul{
+    color: white;
+    margin-left: 5%;
+    text-align: left;
+    font-size: larger;
+}
+
+a{
+    text-decoration: underline;
+    margin-left: 0.5%;
+}
+#view{
+    color: yellow
+      
+}
+
+#download{
+    color: cyan;
+}
+
+#back{
+    color: white;
+}
